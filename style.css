@@ -1,0 +1,50 @@
+body {
+    background-color: #bfbfbf;
+}
+
+h1, p, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#main-header {
+    background-color: black;
+}
+
+#name {
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    float:left
+}
+ 
+#navbar {
+    align-items: center;
+    float:right;
+}
+ 
+#navbar ul {
+    padding:0;
+    list-style:none;
+}
+ 
+#navbar li {
+    display:inline-block;
+}
+ 
+#navbar a {
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    padding-right:15px;
+}
+
+#profile-pic {
+    max-width: 20%;
+    height: auto;
+}
