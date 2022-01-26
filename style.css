@@ -1,0 +1,22 @@
+.img-fluid {
+    max-width: 40%;
+    height: auto;
+}
+
+#nav-title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+#hero-text {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#lang-logos {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+}
+
+#card-color {
+    background-color: #cacaca;
+}
